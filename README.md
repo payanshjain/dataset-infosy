@@ -156,35 +156,29 @@ results/
 
 Contains metrics, prediction CSVs, and training curves.
 
-🎯 Use Cases
+## 🎯 Use Cases
 
-Smart city surveillance
+- Smart city surveillance  
+- Public safety monitoring  
+- Stadium & event crowd control  
+- Metro & railway station monitoring  
+- Emergency response systems  
 
-Public safety monitoring
+## 🔮 Future Enhancements
 
-Stadium & event crowd control
+- Multi-camera fusion  
+- Edge deployment (Jetson Nano)  
+- ONNX / TensorRT optimization  
+- Predictive crowd analytics  
+- Automated SMS / Email alerting  
 
-Metro & railway station monitoring
+## 🤝 Contributing
 
-Emergency response systems
+Contributions are welcome!  
+Feel free to open issues, submit pull requests, or suggest improvements.
 
-🔮 Future Enhancements
+## 📜 License
 
-Multi-camera fusion
+This project is licensed under the **MIT License**.
 
-Edge deployment (Jetson Nano)
-
-ONNX / TensorRT optimization
-
-Predictive crowd analytics
-
-Automated SMS / Email alerting
-
-🤝 Contributing
-
-Pull requests and suggestions are welcome!
-
-📜 License
-
-This project is licensed under the MIT License.
 
